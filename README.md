@@ -12,7 +12,7 @@ This is achieved by integrating **off-chain flight data oracles** that call the 
 
 Traditional travel insurance is slow, paperwork-heavy, and sometimes shady with claim rejections.
 
-With this contract:
+With this contract: 
 
 - ✅ **No paperwork** or manual claim process.
 - ⏱️ **Real-time payout** triggered by verifiable flight data.
